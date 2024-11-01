@@ -1,0 +1,14 @@
+C:\Users\reces\source\repos\Proof of code\bin\Debug\net8.0\Proof of code.exe
+C:\Users\reces\source\repos\Proof of code\bin\Debug\net8.0\Proof of code.deps.json
+C:\Users\reces\source\repos\Proof of code\bin\Debug\net8.0\Proof of code.runtimeconfig.json
+C:\Users\reces\source\repos\Proof of code\bin\Debug\net8.0\Proof of code.dll
+C:\Users\reces\source\repos\Proof of code\bin\Debug\net8.0\Proof of code.pdb
+C:\Users\reces\source\repos\Proof of code\obj\Debug\net8.0\Proof of code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reces\source\repos\Proof of code\obj\Debug\net8.0\Proof of code.AssemblyInfoInputs.cache
+C:\Users\reces\source\repos\Proof of code\obj\Debug\net8.0\Proof of code.AssemblyInfo.cs
+C:\Users\reces\source\repos\Proof of code\obj\Debug\net8.0\Proof of code.csproj.CoreCompileInputs.cache
+C:\Users\reces\source\repos\Proof of code\obj\Debug\net8.0\Proof of code.dll
+C:\Users\reces\source\repos\Proof of code\obj\Debug\net8.0\refint\Proof of code.dll
+C:\Users\reces\source\repos\Proof of code\obj\Debug\net8.0\Proof of code.pdb
+C:\Users\reces\source\repos\Proof of code\obj\Debug\net8.0\Proof of code.genruntimeconfig.cache
+C:\Users\reces\source\repos\Proof of code\obj\Debug\net8.0\ref\Proof of code.dll
